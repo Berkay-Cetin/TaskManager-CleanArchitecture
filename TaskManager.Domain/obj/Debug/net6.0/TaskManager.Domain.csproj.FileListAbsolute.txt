@@ -1,0 +1,12 @@
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.deps.json
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\refint\TaskManager.Domain.dll
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\ref\TaskManager.Domain.dll
+C:\Users\berkay.cetin\source\repos\TaskManager\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.AssemblyReference.cache
