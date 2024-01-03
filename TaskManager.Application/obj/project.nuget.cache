@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HKp1fYKl9oeq6pgINPy88crypr15MR/lwv6IOTfNbvtO5yDriaZ6bufzi43ijb+0nSGCYULk+apcSn/lZduv3w==",
+  "dgSpecHash": "VHEjQHA47NL6Ex83vkhLAYjp78+LEJNBgOoBxYSC0Et2MlFSye4tYrmdX/kF/vhaTIwXGFInxvbFH+JFN6iHUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+  "projectFilePath": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvicUrcNKHqMGuQU4SUPCZOYhCZRiCk9hSb/KD5TmCT7ueI2x6SCQ8r9HuEXBM7tRWc4xtqiPZDwBobsj6ilJg==",
+  "dgSpecHash": "EFPi7EzZgCJA6SyeqeedPtKhdvSIaMcGmXMKsYZx3uQa/ZWby5t20lVN4IvPikkk13wDno2ryne2PEofw8+m0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj",
+  "projectFilePath": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

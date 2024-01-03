@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqiTz6Owcfo3KF1AQucdxIQC7Rc8hg+TDaiYQkuLkHjVsb2E3t/1yjhFzlCw0vl//7XaP02XitBHBk639Lshug==",
+  "dgSpecHash": "u8KZzD1j1jbUtfiPOFqkYjW5YmYjFGnZ4aHmv66Bzp2rv8em5xDVEJ04PmZ3UDqyk0DOKuWr8rJnmfgzCaOiJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+  "projectFilePath": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\berkay.cetin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

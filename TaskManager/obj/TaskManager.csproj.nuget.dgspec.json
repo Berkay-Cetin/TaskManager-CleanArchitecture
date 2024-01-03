@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\berkay.cetin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berkay.cetin\\source\\repos\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "C:\\Bitbucket\\TaskManager\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
